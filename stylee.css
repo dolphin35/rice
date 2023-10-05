@@ -1,0 +1,26 @@
+ li a:hover{
+    color: #000000
+    
+    
+    
+}
+li a{
+    opacity: 1;
+    font-family: "Times New Roman", Times, serif;
+}
+
+li a:hover{
+    opacity: 0.5;
+    color: #000000
+    
+}
+
+.a1:hover{
+    opacity: 0.5;
+    color: #000000
+}
+
+.a1{
+    font-family: "Times New Roman", Times, serif;
+}
+
